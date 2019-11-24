@@ -6,7 +6,7 @@ namespace graphtutorial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(".Net Core Tutorial");
+            Console.WriteLine(".Net Core Tutorial for Graph API");
             int choice = -1;
 
 
